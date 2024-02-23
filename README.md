@@ -4,7 +4,7 @@ This project showcases the design of the Github-clone using HTML , CSS and SCSS 
 
 Udemig- Mehmet Can Seyhan Katkılarıyla
 
-Clone the repository: 
+Clone the repository: https://github.com/Celal08/github-clone
 
 Technologies
 
